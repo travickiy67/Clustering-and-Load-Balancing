@@ -35,8 +35,21 @@
 ### Задание 1
 - Запустите два simple python сервера на своей виртуальной машине на разных портах
 
+*Cрин 1*  
 
-![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/bcc36292-87c5-42ca-9d9b-6f5dfad9c107)
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.1.png)  
+
+*Слрин 2*  
+
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.2.png)  
+
+*Скрин 3*  
+
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.3.png)  
+
+*Слрин 4*  
+
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.4.png)  
 
 
 - Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
