@@ -41,6 +41,10 @@
 
 *Скрин 2*  
 
+ Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
+- Настройте балансировку Round-robin на 4 уровне.
+- На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
+
 ![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.2.png)  
 
 *Скрин 3*  
@@ -52,9 +56,6 @@
 ![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/1.4.png)  
 
 [Файл cfg](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/1/haproxy.cfg)  
-- Установите и настройте HAProxy, воспользуйтесь материалами к лекции по [ссылке](2/)
-- Настройте балансировку Round-robin на 4 уровне.
-- На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 
 ### Задание 2
@@ -91,6 +92,7 @@
 
 `Cвязка HAProxy + Nginx`
 
+
 *Скрин 1*
 
 ![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/3.5png.png)  
@@ -103,7 +105,7 @@
 
 [Файл cfg](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/3/1/haproxy.cfg)  
 
-
+**Дальше пока не продвинулся, не понялл как С помощью curl можно вывести картинку, буду изучать отдельно**
 ---
 
 ### Задание 4*
