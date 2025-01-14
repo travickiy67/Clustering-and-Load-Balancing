@@ -69,11 +69,11 @@
 
 *Скрин 2*
 
-[image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/2.2.png)  
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/2.2.png)  
 
 *Скрин 3*  
 
-[image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/2.3.png)  
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/2.3.png)  
 
 [Файл cfg](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/2/haproxy.cfg)  
 
@@ -88,6 +88,21 @@
 - Настройте связку HAProxy + Nginx как было показано на лекции.
 - Настройте Nginx так, чтобы файлы .jpg выдавались самим Nginx (предварительно разместите несколько тестовых картинок в директории /var/www/), а остальные запросы переадресовывались на HAProxy, который в свою очередь переадресовывал их на два Simple Python server.
 - На проверку направьте конфигурационные файлы nginx, HAProxy, скриншоты с запросами jpg картинок и других файлов на Simple Python Server, демонстрирующие корректную настройку.
+
+`Cвязка HAProxy + Nginx`
+
+*Скрин 1*
+
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/3.5png.png)  
+
+*Слрин 2*
+
+![image](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/img/3.6png.png)  
+
+[Файл conf](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/3/1/example-http.conf)  
+
+[Файл cfg](https://github.com/travickiy67/Clustering-and-Load-Balancing/blob/main/3/1/haproxy.cfg)  
+
 
 ---
 
